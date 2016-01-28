@@ -1,0 +1,28 @@
+name: David Dewese
+favicon: null
+layout_spectrum: 0.3973833799827844
+typography_spectrum: 0.3831599385011941
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.37774126417934895
+  lightness: 0.39130158349871635
+  saturation: 0.2641926270443946
+  rhythmicContrast: 0.6652899971231818
+purpose: []
